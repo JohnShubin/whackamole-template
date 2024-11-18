@@ -3,8 +3,6 @@ import random
 
 #added my first comm
 def main():
-    x_val = 0
-    y_val = 0
     try:
         pygame.init()
         # You can draw the mole with this snippet:
